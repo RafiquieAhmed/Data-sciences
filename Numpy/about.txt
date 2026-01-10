@@ -1,0 +1,1 @@
+here i leare numpy libery for data sciene jounary why numpy need istead of list data structure.
